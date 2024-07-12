@@ -29,11 +29,11 @@ body {
 
 h1{ 
 
-    font-size: 70px; 
+    font-size: 80px; 
 
     font-weight: 700; 
 
-    margin-bottom: 35px; 
+    margin-bottom: 40px; 
 
     color: black; 
 } 
@@ -55,7 +55,7 @@ h3
 
     margin: 10px; 
 
-    background-color: deep pink; 
+    background-color: reddish pink; 
 
     border-radius: 10px; 
 
@@ -114,7 +114,7 @@ h3
   
 #inp::placeholder { 
 
-    color: black; 
+    color: green; 
 } 
 
   
@@ -144,7 +144,7 @@ h3
 
     text-align: center; 
 
-    color: deep pink; 
+    color: reddish pink; 
 
     letter-spacing: 1px; 
 }
