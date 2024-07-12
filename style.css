@@ -29,11 +29,11 @@ body {
 
 h1{ 
 
-    font-size: 80px; 
+    font-size: 70px; 
 
     font-weight: 700; 
 
-    margin-bottom: 40px; 
+    margin-bottom: 35px; 
 
     color: black; 
 } 
@@ -55,7 +55,7 @@ h3
 
     margin: 10px; 
 
-    background-color: pink; 
+    background-color: deep pink; 
 
     border-radius: 10px; 
 
@@ -87,7 +87,7 @@ h3
   
 #inp { 
 
-    color: green; 
+    color: black; 
     border: 3px solid black; 
 
     border-radius: 5px; 
@@ -144,7 +144,7 @@ h3
 
     text-align: center; 
 
-    color: pink; 
+    color: deep pink; 
 
     letter-spacing: 1px; 
 }
