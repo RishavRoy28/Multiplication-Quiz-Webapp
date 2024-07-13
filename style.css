@@ -55,7 +55,7 @@ h3
 
     margin: 10px; 
 
-    background-color: pink; 
+    background-color: magenta; 
 
     border-radius: 10px; 
 
@@ -120,7 +120,7 @@ h3
   
 #btn { 
 
-    background-color: olive; 
+    background-color: black; 
 
     outline: none; 
 
@@ -144,7 +144,7 @@ h3
 
     text-align: center; 
 
-    color: pink; 
+    color: magenta; 
 
     letter-spacing: 1px; 
 }
