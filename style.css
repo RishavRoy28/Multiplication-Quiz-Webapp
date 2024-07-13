@@ -59,7 +59,7 @@ h3
 
     margin: 10px; 
 
-    background-color: magenta; 
+    background-color: magenta bold; 
 
     border-radius: 10px; 
 
@@ -148,7 +148,7 @@ h3
 
     text-align: center; 
 
-    color: magenta; 
+    color: magenta bold; 
 
     letter-spacing: 1px; 
 }
