@@ -39,7 +39,7 @@ h1{
 
     margin-bottom: 40px; 
 
-    color: black; 
+    color: white; 
 } 
 
   
@@ -59,7 +59,7 @@ h3
 
     margin: 10px; 
 
-    background-color: bold magenta; 
+    background-color: magenta; 
 
     border-radius: 10px; 
 
@@ -148,7 +148,7 @@ h3
 
     text-align: center; 
 
-    color: bold magenta; 
+    color: magenta; 
 
     letter-spacing: 1px; 
 }
